@@ -1,0 +1,94 @@
+{
+  "anilistId": 16498,
+  "mkissaId": "wbnpCxPu3fyk9XSaZ",
+  "episode": 1,
+  "audio": "sub",
+  "intro": null,
+  "outro": null,
+  "sources": [
+    {
+      "name": "Default",
+      "url": "https://allanime.day/apivtwo/clock.json?id=7d2473746a243c2462343667603e593e3332626760323f67313331323e303667376737376530303531323265363760267a26646733353360343e633362643660373e626263363e6233673f3e6437673e3763267a266b63626f672962343667603e593e3332626760323f67313331323e30366737673737653030353132326536376060363637286c7661267a262a37363e36762a313436762a323e36762a242a2475727463676b63744f62243c24516f7e242a2462677263243c24343634302b363e2b34335237363c36373c3636283636365c242a2472746768756a67726f6968527f7663243c24757364242a246d637f243c2463762b71646876457e567335607f6d3f5e55675c593759757364247b",
+      "extractedUrl": "https://repackager.wixmp.com/video.wixstatic.com/video/d20af8_854daf49a7574860a1a11c663744c01f/,1080p,720p,480p,/mp4/file.mp4.urlset/master.m3u8",
+      "extractedType": "hls",
+      "type": "iframe",
+      "priority": 8.5,
+      "headers": {
+        "Referer": "https://mkissa.to",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+      },
+      "downloads": null
+    },
+    {
+      "name": "Ak",
+      "url": "https://allanime.day/apivtwo/clock.json?id=7d2473746a243c24353231303030242a2475727463676b63744f62243c244464242a2462677263243c24343634302b363e2b34335237363c36373c3636283636365c242a2472746768756a67726f6968527f7663243c24757364242a246d637f243c2463762b71646876457e567335607f6d3f5e55675c593759757364247b",
+      "extractedUrl": null,
+      "extractedType": null,
+      "type": "iframe",
+      "priority": 8.2,
+      "headers": {
+        "Referer": "https://mkissa.to",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+      },
+      "downloads": null
+    },
+    {
+      "name": "Yt-mp4",
+      "url": "https://tools.fast4speed.rsvp/media4/videos/wbnpCxPu3fyk9XSaZ/sub/1?Authorization=3_20260824132853_8d102ca76cd0d31977b299b2_8f59de8fbc0e2a6781091aad7c1d1ead0ace8287_000_20260827132853_0041_dnld",
+      "extractedUrl": "https://tools.fast4speed.rsvp/media4/videos/wbnpCxPu3fyk9XSaZ/sub/1?Authorization=3_20260824132853_8d102ca76cd0d31977b299b2_8f59de8fbc0e2a6781091aad7c1d1ead0ace8287_000_20260827132853_0041_dnld",
+      "extractedType": "direct",
+      "type": "player",
+      "priority": 7.9,
+      "headers": {
+        "Referer": "https://mkissa.to",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+      },
+      "downloads": null
+    },
+    {
+      "name": "Ss-Hls",
+      "url": "https://streamsb.net/e/jhn726xe7c0g.html",
+      "extractedUrl": null,
+      "extractedType": null,
+      "type": "iframe",
+      "priority": 5.5,
+      "headers": {
+        "Referer": "https://mkissa.to",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+      },
+      "downloads": {
+        "sourceName": "StreamSB",
+        "downloadUrl": "https://streamsb.net/d/jhn726xe7c0g.html"
+      }
+    },
+    {
+      "name": "Ok",
+      "url": "https://ok.ru/videoembed/3269685873298",
+      "extractedUrl": "https://ok6-31.vkuser.net/expires/1787738469007/clientType/0/srcIp/62.210.172.148/type/2/mid/3269685873298/id/1878801582738/ms/95.142.206.35/zs/65/srcAg/CHROME/urls/185.180.203.46%3B176.112.172.39/oq/0/pr/10/ct/28/sig/JLJ6T1Piexo/ondemand/hls4_1878801582738.CJKV3MOUX0CSscz99BBQCuNTn5fCagLp.m3u8",
+      "extractedType": "hls",
+      "type": "iframe",
+      "priority": 3.5,
+      "headers": {
+        "Referer": "https://mkissa.to",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+      },
+      "downloads": null
+    },
+    {
+      "name": "Sl-mp4",
+      "url": "https://streamlare.com/e/NK7j0lgXZjEnXkPv",
+      "extractedUrl": null,
+      "extractedType": null,
+      "type": "iframe",
+      "priority": 3,
+      "headers": {
+        "Referer": "https://mkissa.to",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+      },
+      "downloads": {
+        "sourceName": "Streamlare",
+        "downloadUrl": "https://streamlare.com/v/NK7j0lgXZjEnXkPv"
+      }
+    }
+  ]
+}
